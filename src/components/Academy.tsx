@@ -1,4 +1,4 @@
-import React from 'react'
+
 import bestwork from '../assets/bestwork.png'
 import academy from '../assets/academy.png'
 import academy1 from '../assets/academy1.png'

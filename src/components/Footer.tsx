@@ -1,12 +1,7 @@
 
 import bottom from '../assets/bottom.png'
 import top from '../assets/up.png'
-import social1 from '../assets/social1.png'
-import social2 from '../assets/social2.png'
-import social3 from '../assets/social3.png'
-import social4 from '../assets/social4.png'
-import social5 from '../assets/social5.png'
-import social6 from '../assets/social6.png'
+
 import { RxArrowTopRight } from 'react-icons/rx'
 
 const Footer = () => {
@@ -34,7 +29,7 @@ const Footer = () => {
           </div>
         </div>
         <div className='flex justify-between items-center mt-3 '>
-            <div>LitCollective © 2025</div>
+            <p>LitCollective © 2025</p>
         </div>  
       </div>
     </div>
